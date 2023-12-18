@@ -32,6 +32,17 @@
 		"cost": 10,
 		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
 	}
+	{
+		"name": "Sith",
+		"unitType": "Ranged",
+		"uniqueTo": "Republica Imperial",
+		"movement": 7,
+		"strength": 100,
+		"rangedStrength": 36,
+		"range": 7,
+		"cost": 10,
+		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
+	}
 { 
   "name": "Super Cheat Worker", 
   "uniqueTo": "Republica Imperial", 
