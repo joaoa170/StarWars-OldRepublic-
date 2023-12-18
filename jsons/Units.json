@@ -8,8 +8,7 @@
 		"rangedStrength": 36,
 		"range": 7,
 		"cost": 10,
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability"],
 	}
 	{
 		"name": "Imperial Droids",
@@ -20,8 +19,7 @@
 		"rangedStrength": 46,
 		"range": 10,
 		"cost": 10,
-		"requiredTech": "Ballistics",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability"],
 	}
 { 
   "name": "Super Cheat Worker", 
