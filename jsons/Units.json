@@ -23,7 +23,7 @@
 	}
 	{
 		"name": "jedi",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Mounted",
 		"uniqueTo": "Republica Imperial",
 		"movement": 7,
 		"strength": 500,
@@ -34,7 +34,7 @@
 	}
 	{
 		"name": "Sith",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Mounted",
 		"uniqueTo": "Republica Imperial",
 		"movement": 7,
 		"strength": 500,
