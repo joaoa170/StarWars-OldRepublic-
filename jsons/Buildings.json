@@ -13,7 +13,7 @@
 		"maintenance": 5,
 		"isNationalWonder": true
 		 "uniques": [ "Destroyed when the city is captured"
-	}
+	},
 	{
 		"name": "Corte Imperial",
 		"uniqueTo": "Republica Imperial",
