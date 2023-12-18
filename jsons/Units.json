@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Guarda Imperial",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Republica Imperial",
 		"replaces": "Machine Gun",
-		"movement": 2,
+		"movement": 7,
 		"strength": 90,
 		"rangedStrength": 36,
 		"range": 2,
