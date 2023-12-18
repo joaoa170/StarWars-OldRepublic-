@@ -8,7 +8,7 @@
 		"rangedStrength": 36,
 		"range": 7,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability"],
+		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
 	}
 	{
 		"name": "Imperial Droids",
@@ -19,7 +19,7 @@
 		"rangedStrength": 46,
 		"range": 10,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability"],
+		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
 	}
 { 
   "name": "Super Cheat Worker", 
