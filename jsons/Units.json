@@ -3,16 +3,25 @@
 		"name": "Guarda Imperial",
 		"unitType": "Ranged",
 		"uniqueTo": "Republica Imperial",
-		"replaces": "Machine Gun",
 		"movement": 7,
 		"strength": 100,
 		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
+		"range": 7,
+		"cost": 10,
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+	}
+	{
+		"name": "Imperial Droids",
+		"unitType": "Ranged",
+		"uniqueTo": "Republica Imperial",
+		"movement": 7,
+		"strength": 300,
+		"rangedStrength": 46,
+		"range": 10,
+		"cost": 10,
+		"requiredTech": "Ballistics",
+		"promotions": ["Logistics","Accuracy I"],
 	}
 { 
   "name": "Super Cheat Worker", 
