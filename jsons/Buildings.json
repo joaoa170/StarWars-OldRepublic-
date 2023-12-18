@@ -232,7 +232,7 @@
     "requiredTech": "Bronze Working",
     "uniques": [
                 "[1] Unit Supply per [3] population [in this city]",
-                "Free [Spearman] appears <before discovering [Gunpowder]>",
+                "Free [Guarda Imperial] appears <before discovering [Gunpowder]>",
                 "Free [Gunpowder] appears <after discovering [Gunpowder]>",
                 "Destroyed when the city is captured"
                ]
