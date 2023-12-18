@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Guarda Imperial",
-		"unitType": "Ranged",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Republica Imperial",
 		"movement": 7,
 		"strength": 100,
@@ -12,7 +12,7 @@
 	}
 	{
 		"name": "Imperial Droids",
-		"unitType": "Ranged",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Republica Imperial",
 		"movement": 7,
 		"strength": 300,
@@ -23,10 +23,10 @@
 	}
 	{
 		"name": "jedi",
-		"unitType": "Ranged",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Republica Imperial",
 		"movement": 7,
-		"strength": 300,
+		"strength": 500,
 		"rangedStrength": 46,
 		"range": 10,
 		"cost": 10,
@@ -34,11 +34,11 @@
 	}
 	{
 		"name": "Sith",
-		"unitType": "Ranged",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Republica Imperial",
 		"movement": 7,
-		"strength": 100,
-		"rangedStrength": 36,
+		"strength": 500,
+		"rangedStrength": 46,
 		"range": 7,
 		"cost": 10,
 		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
