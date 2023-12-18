@@ -265,14 +265,14 @@
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true,
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Culture] per [1] population [in all cities]", "[+1000000]% [Culture] [in all cities]", "[+1000]% Golden Age length", "[-1000]% Culture cost of adopting new Policies" ] } 
-  
+  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Culture] per [1] population [in all cities]", "[+1000000]% [Culture] [in all cities]", "[+1000]% Golden Age length", "[-1000]% Culture cost of adopting new Policies" ] 
+} 
 { "name": "Imperial Faith Hack", 
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Faith] per [1] population [in all cities]", "[+1000000]% [Faith] [in all cities]", "May not generate great prophet equivalents naturally", "May choose [2] additional belief(s) of any type when [founding] a religion", "May choose [2] additional belief(s) of any type when [enhancing] a religion" ] } 
-
+  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Faith] per [1] population [in all cities]", "[+1000000]% [Faith] [in all cities]", "May not generate great prophet equivalents naturally", "May choose [2] additional belief(s) of any type when [founding] a religion", "May choose [2] additional belief(s) of any type when [enhancing] a religion" ] 
+} 
 { "name": "Imperial Happiness Hack", 
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
