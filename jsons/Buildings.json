@@ -13,7 +13,7 @@
 		"maintenance": 5,
 		"isNationalWonder": true
 		 "uniques": [ "Destroyed when the city is captured",
-	,
+	},
 	{
 		"name": "Corte Imperial",
 		"uniqueTo": "Republica Imperial",
@@ -26,7 +26,7 @@
 		"production": 10000
 		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"],
 		"requeredBuilding": "Poder Imperial" 
-	,
+	},
 	{     
 		"name": "Parlamento Imperial",
 		"uniqueTo": "Republica Imperial",
@@ -39,7 +39,7 @@
 		"production": 10000
 		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born","Can only be built [in capital]"],
 		"providesFreeBuildings":"Corte Imperial"
-	,
+	},
 	{ 
 		"name": "Casa Visla",
 		"uniqueTo": "Republica Imperial",
@@ -51,7 +51,7 @@
 		"food": 5000
 		"production": 10000
 		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"],
-	,
+	},
 	{ 
 		"name": "Templo Jedi",
 		"uniqueTo": "Republica Imperial",
@@ -64,7 +64,7 @@
 		"production": 10000
 		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"],
 		"providesFreeBuildings":"Casa Visla"
-
+	},
 	{
 		"name": "Infinite gold",
 		"uniqueTo": "Republica Imperial",
