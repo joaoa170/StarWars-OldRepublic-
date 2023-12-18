@@ -173,7 +173,7 @@
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
-	}
+	 },
 	 {
     "name": "Imperial Bureaucracy",
     "uniqueTo": "Republica Imperrial",
@@ -190,7 +190,7 @@
                 "Destroyed when the city is captured"
               ],
    "requiredTech": "Writing",
-      },
+              },
 
 	"name": "Imperial Pavilion",
     "uniqueTo": "Republica Imperial",
@@ -210,7 +210,33 @@
                 "[+25]% Production when constructing [Military] units [in all cities] <when at war>"
                ],
     "requiredTech": "Education"
-	 },
+	  },
+	  {
+    "name": "Imperial Mint",
+    "uniqueTo": "Republica Imperial",
+    "replaces": "Mint",
+    "maintenance": 0,
+    "requiredNearbyImprovedResources": ["Gold Ore", "Silver", "Copper", "Iron"],
+    "hurryCostModifier": 25,
+    "uniques": [
+                "[+1 Gold] per [5] population [in all cities]"
+               ],
+   "requiredTech": "Currency"
+          },
+	  {
+    "name": "Imperial Guards",
+    "uniqueTo": "Republica Imperial",
+    "cityStrength": 30,
+    "cost": 80,
+    "maintenance": 2,
+    "requiredTech": "Bronze Working",
+    "uniques": [
+                "[1] Unit Supply per [3] population [in this city]",
+                "Free [Spearman] appears <before discovering [Gunpowder]>",
+                "Free [Gunpowder] appears <after discovering [Gunpowder]>",
+                "Destroyed when the city is captured"
+               ]
+          },
 { "name": "Hack Land Military Hack 2", "uniqueTo": "Republica Imperial", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "When defeating a [All] unit, earn [1000] Gold and recruit it", "All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion", "[5] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
 
 { "name": "Hack Land Military Hack 1", "uniqueTo": "Republica Imperial", "cost": 1, "isWonder": true, "uniques": [ "[1] additional attacks per turn", "Destroyed when the city is captured", "Can only be built [in capital]", "Units fight as though they were at full strength even when damaged", "Enables [All] units to enter ocean tiles", "Units ending their turn on [All] tiles take [0] damage", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Military Units gifted from City-States start with [200000] XP", "New [All] units start with [200000] Experience [in all cities]", "No movement cost to pillage", "All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion" ] } 
