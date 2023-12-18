@@ -65,7 +65,115 @@
 		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"],
 		"providesFreeBuildings":"Casa Visla"
 
-
+	{
+		"name": "Infinite gold",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999999,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "Cultural increase",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"culture": 50,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "Faith increase",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"faith": 50,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "Increase research speed",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"science": 30,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "Food increase",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"food": 50,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "New unit XP increase",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["New [Military] units start with [9999] Experience [in this city]"]
+	},
+	{
+		"name": "Increased city defense",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"cityStrength": 100,
+		"cityHealth": 1000,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "Increased city production",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"production": 100,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "Scientist point",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"greatPersonPoints": {"Great Scientist": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	},
+	{
+		"name": "Engineer point",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"greatPersonPoints": {"Great Engineer": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	},
+	{
+		"name": "Artist point",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"greatPersonPoints": {"Great Artist": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	},
+	{
+		"name": "Merchant point",
+		"uniqueTo": "Republica Imperial",
+		"gold": 999,
+		"greatPersonPoints": {"Great Merchant": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	}
 		
 { "name": "Hack Land Military Hack 2", "uniqueTo": "Republica Imperial", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "When defeating a [All] unit, earn [1000] Gold and recruit it", "All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion", "[5] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
 
@@ -88,4 +196,3 @@
 { "name": "Hack Land Production Hack", "uniqueTo": "Republica Imperial", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Production] per [1] population [in all cities]", "[+1000000]% [Production] [in all cities]", "Quantity of strategic resources produced by the empire +[200000]%", "[-1000]% tile improvement construction time", ] }
   
 { "name": "Hax For Everyone!", "isNationalWonder": true, "cost": 1, "uniques": [ "Enables Open Borders agreements", "Enables Research agreements", "Enables Defensive Pacts", "Destroyed when the city is captured", "Can only be built [in capital]", "\"Borrows\" city names from other civilizations in the game",  "All newly-trained [All] units [in all cities] receive the [Hax For Everyone! Ability] promotion", "[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] per [1] population [in all cities]", "Enables conversion of city production to [Gold]", "May buy [All] units with [Culture] for [3] times their normal Production cost", "May buy [All] units with [Faith] for [3] times their normal Production cost", "May buy [All] buildings with [Culture] for [3] times their normal Production cost", "May buy [All] buildings with [Faith] for [3] times their normal Production cost" ] } 
-
