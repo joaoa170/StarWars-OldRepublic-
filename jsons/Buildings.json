@@ -190,7 +190,7 @@
                 "Destroyed when the city is captured"
               ],
    "requiredTech": "Writing",
-              },
+          },
           {
     "name": "Imperial Pavilion",
     "uniqueTo": "Republica Imperial",
