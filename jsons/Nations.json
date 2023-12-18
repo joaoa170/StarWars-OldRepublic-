@@ -3,7 +3,7 @@
 		"name": "Republica Imperial",
 		"leaderName": "Princesa Leia Organa",
 		"adjective": ["Aliança"],
-		"startBias": ["Flat land"],
+		"startBias": ["Cost"],
 		"preferredVictoryType": "Diplomacy",
 		
 		"startIntroPart1": "Que a força esteja com você",
@@ -30,9 +30,9 @@
 		"outerColor": [241,3,6],
 		"innerColor": [80,11,14],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Coruscant","Alderam","Naboo","Peridea","zeffo","Bogano","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Coruscant","Alderam","Naboo","Peridea","zeffo","Bogano","Rosne Plane","Scarif","xandrila",
+			"Kamino","Dagobah","Dathomir","Mustafar","Tatoine","Endor","Hoth","Kamino","Kessel","Kurat",
+			"Pandora","Kiris","Bespim","Jakku","Gionossis","Jabbas","Andor","Carida","Jeluscam","Helska",
+			"Dorlos","Yavim","Jedha","Sembla","Ruusan","Batuun","Podia","Exengol","Corelia","Adish-Tos"]
 	}
 ]
