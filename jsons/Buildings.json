@@ -176,7 +176,7 @@
 	}
 	 {
     "name": "Imperial Bureaucracy",
-    "uniqueTo": "China",
+    "uniqueTo": "Republica Imperrial",
     "maintenance": 5,
     "cost": 100,
     "hurryCostModifier": 25,
@@ -190,7 +190,27 @@
                 "Destroyed when the city is captured"
               ],
    "requiredTech": "Writing",
-  },
+      },
+
+	"name": "Imperial Pavilion",
+    "uniqueTo": "Republica Imperial",
+    "replaces": "Oxford University",
+    "cost": 125,
+    "science": 2,
+    "culture": 2,
+    "faith":2,
+    "greatPersonPoints": {"Great Scientist": 1},
+    "isNationalWonder": true,
+    "uniques": [
+                "Requires a [University] in all cities", 
+                "Free Technology", 
+                "Cost increases by [30] per owned city",
+                "May choose [1] additional belief(s) of any type when [enhancing] a religion",
+                "May buy [Great General] units for [500] [Faith] [in this city] <when not at war>",
+                "[+25]% Production when constructing [Military] units [in all cities] <when at war>"
+               ],
+    "requiredTech": "Education"
+	 },
 { "name": "Hack Land Military Hack 2", "uniqueTo": "Republica Imperial", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "When defeating a [All] unit, earn [1000] Gold and recruit it", "All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion", "[5] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
 
 { "name": "Hack Land Military Hack 1", "uniqueTo": "Republica Imperial", "cost": 1, "isWonder": true, "uniques": [ "[1] additional attacks per turn", "Destroyed when the city is captured", "Can only be built [in capital]", "Units fight as though they were at full strength even when damaged", "Enables [All] units to enter ocean tiles", "Units ending their turn on [All] tiles take [0] damage", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Military Units gifted from City-States start with [200000] XP", "New [All] units start with [200000] Experience [in all cities]", "No movement cost to pillage", "All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion" ] } 
