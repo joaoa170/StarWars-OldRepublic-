@@ -174,7 +174,23 @@
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
 	}
-		
+	 {
+    "name": "Imperial Bureaucracy",
+    "uniqueTo": "China",
+    "maintenance": 5,
+    "cost": 100,
+    "hurryCostModifier": 25,
+    "uniques": [
+                "[+15]% Production towards any buildings that already exist in the Capital <when not at war>",
+                "All newly-trained [non-air] units [in this city] receive the [Honored Sons] promotion <when not at war>",
+                "[Gold] cost of purchasing [All] buildings [-2]% <when not at war>",
+                "[+20]% Production when constructing [Military] units [in this city] <when at war>",
+                "All newly-trained [non-air] units [in this city] receive the [Death Ground] promotion <when at war>",
+                "[Gold] cost of purchasing [Military] units [-2]% <when at war>",
+                "Destroyed when the city is captured"
+              ],
+   "requiredTech": "Writing",
+  },
 { "name": "Hack Land Military Hack 2", "uniqueTo": "Republica Imperial", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "When defeating a [All] unit, earn [1000] Gold and recruit it", "All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion", "[5] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
 
 { "name": "Hack Land Military Hack 1", "uniqueTo": "Republica Imperial", "cost": 1, "isWonder": true, "uniques": [ "[1] additional attacks per turn", "Destroyed when the city is captured", "Can only be built [in capital]", "Units fight as though they were at full strength even when damaged", "Enables [All] units to enter ocean tiles", "Units ending their turn on [All] tiles take [0] damage", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Military Units gifted from City-States start with [200000] XP", "New [All] units start with [200000] Experience [in all cities]", "No movement cost to pillage", "All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion" ] } 
