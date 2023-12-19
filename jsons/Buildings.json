@@ -79,6 +79,26 @@
 		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"] 
 	},
 	{
+    "name": "Grande Templo Jedi",
+    "uniqueTo": "Republica IMperial",
+    "replaces": "Grand Temple",
+    "cost": 200,
+    "culture": 200,
+    "greatPersonPoints": {"Great Prophet": 1},
+    "faith": 8000,
+    "uniques": [
+                "Requires a [Temple] in all cities", 
+                "Cost increases by [30] per owned city",
+                "[+100]% Natural religion spread [in this city] <when not at war>",
+                "May buy [Military] units with [Faith] [in all cities] <when at war>",
+                "Hidden when religion is disabled", 
+                "Can only be built [in holy cities]", 
+                "Gain a free [Follower] belief"
+               ],
+    "requiredTech": "Theology",
+    "isNationalWonder": true
+        },
+	{
 		"name": "Infinite gold",
 		"uniqueTo": "Republica Imperial",
 		"gold": 9999999,
