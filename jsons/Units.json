@@ -8,8 +8,8 @@
 		"rangedStrength": 36,
 		"range": 7,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
-	}
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III"],
+		
 	{
 		"name": "Imperial Droids",
 		"unitType": "Ranged Gunpowder",
@@ -19,7 +19,7 @@
 		"rangedStrength": 46,
 		"range": 10,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III"],
 	}
 	{
 		"name": "jedi",
@@ -30,7 +30,7 @@
 		"rangedStrength": 46,
 		"range": 10,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III"],
 	}
 	{
 		"name": "Sith",
@@ -41,7 +41,7 @@
 		"rangedStrength": 46,
 		"range": 7,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III"],
 	}
 { 
   "name": "Super Cheat Worker", 
