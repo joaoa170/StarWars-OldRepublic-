@@ -8,7 +8,7 @@
 		"rangedStrength": 36,
 		"range": 7,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability",],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
 	}	
 	{
 		"name": "Imperial Droids",
@@ -19,7 +19,7 @@
 		"rangedStrength": 46,
 		"range": 10,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
 	}
 	{
 		"name": "jedi",
@@ -30,7 +30,7 @@
 		"rangedStrength": 56,
 		"range": 15,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
 	}
 	{
 		"name": "Sith",
@@ -41,7 +41,7 @@
 		"rangedStrength": 56,
 		"range": 15,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
 	}
 { 
   "name": "Super Cheat Worker", 
