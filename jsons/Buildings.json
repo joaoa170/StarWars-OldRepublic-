@@ -65,6 +65,19 @@
 		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"],
 		"providesFreeBuildings":"Casa Visla"
 	},
+	{ 
+		"name": "Ordem jedi",
+		"uniqueTo": "Republica Imperial",
+		"cost": 1,
+		"gold":70000
+		"hurryCostModifier": 160,
+		"happiness": 1000,
+		"faith": 500
+		"culture": 5000
+		"food": 5000
+		"production": 10000
+		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"] 
+	},
 	{
 		"name": "Infinite gold",
 		"uniqueTo": "Republica Imperial",
