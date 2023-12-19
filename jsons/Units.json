@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Guarda Imperial",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Mounted",
 		"uniqueTo": "Republica Imperial",
 		"movement": 7,
 		"strength": 100,
@@ -12,7 +12,7 @@
 	}	
 	{
 		"name": "Imperial Droids",
-		"unitType": "Ranged Gunpowder",
+		"unitType": "Mounted",
 		"uniqueTo": "Republica Imperial",
 		"movement": 7,
 		"strength": 300,
@@ -23,7 +23,7 @@
 	}
 	{
 		"name": "jedi",
-		"unitType": "Mounted",
+		"unitType": "Sword",
 		"uniqueTo": "Republica Imperial",
 		"movement": 7,
 		"strength": 500,
@@ -34,7 +34,7 @@
 	}
 	{
 		"name": "Sith",
-		"unitType": "Mounted",
+		"unitType": "Sword",
 		"uniqueTo": "Republica Imperial",
 		"movement": 7,
 		"strength": 500,
