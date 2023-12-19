@@ -9,7 +9,7 @@
 		"range": 7,
 		"cost": 10,
 		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
-	}	
+	},	
 	{
 		"name": "Imperial Droids",
 		"unitType": "Mounted",
@@ -20,7 +20,7 @@
 		"range": 10,
 		"cost": 10,
 		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
-	}
+	},
 	{
 		"name": "jedi",
 		"unitType": "Sword",
@@ -31,7 +31,7 @@
 		"range": 15,
 		"cost": 10,
 		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
-	}
+	},
 	{
 		"name": "Sith",
 		"unitType": "Sword",
@@ -42,7 +42,17 @@
 		"range": 15,
 		"cost": 10,
 		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
-	}
+	},
+{ "name": "Bombardeiros", 
+  "uniqueTo": "Republica Imperial", 
+  "unitType": "Ranged Gunpowder", 
+  "movement": 5,
+  "strength": 400,  
+  "range": 15,
+  "rangedStrength": 76,
+  "uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
+  "cost": 10 
+},
 { 
   "name": "Super Cheat Worker", 
   "uniqueTo": "Republica Imperial", 
@@ -51,7 +61,7 @@
   "attackSound": "arrow",
   "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "May create improvements on water resources", "Uncapturable", "[5] Sight" ], 
   "cost": 10 
-}
+},
 { "name": "Super Cheat Settler", 
   "uniqueTo": "Republica Imperial", 
   "unitType": "Civilian", 
@@ -59,7 +69,7 @@
   "attackSound": "arrow", 
   "uniques": ["Founds a new city", "Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[5] Sight" ], 
   "cost": 10 
-}
+},
 { "name": "Primeiro Comando da Aliança", 
   "uniqueTo": "Republica Imperial", 
   "unitType": "Ranged Gunpowder", 
@@ -69,7 +79,7 @@
   "attackSound": "arrow", 
   "uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
   "cost": 10 
-}
+},
 { "name": "Primeiro Comando Imperial", 
   "uniqueTo": "Republica Imperial", 
   "unitType": "Ranged Gunpowder", 
