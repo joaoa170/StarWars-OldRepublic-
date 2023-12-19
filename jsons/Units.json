@@ -8,7 +8,7 @@
 		"rangedStrength": 36,
 		"range": 7,
 		"cost": 10,
-		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability",],
 	}	
 	{
 		"name": "Imperial Droids",
