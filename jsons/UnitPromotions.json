@@ -1,0 +1,24 @@
+[
+	{
+		"name": "Martial Arts", 
+		"uniques": ["Can move after attacking", "[+1] additional attacks per turn"]
+	},
+	{
+		"name": "Imperial Drilling", 
+		"uniques": ["[+10]% Strength <when fighting in [Open terrain] tiles>","[+10]% Strength <when fighting in [Rough terrain] tiles>"]
+	},
+{
+		"name": "Honored Sons", 
+		"uniques": [
+//                            "Improves movement speed on roads <when not at war>", 
+//That doesn't work, sooo-
+                            "[+3] Movement <in [Friendly Land] tiles> <when not at war>",
+                            "[+2] Movement <when at war>",
+                            "[-8]% Gold cost of upgrading"
+                           ]
+	},
+{
+		"name":  "Death Ground", 
+		"uniques": ["Damage is ignored when determining unit Strength", "[+30]% Strength <when defending>","[+20]% Strength <when below [15] HP>" ]
+	},
+]
