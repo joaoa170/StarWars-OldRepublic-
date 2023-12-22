@@ -18,7 +18,7 @@
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
 		"gold":7000000
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 5000
 		"food": 5000
@@ -31,7 +31,7 @@
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
 		"gold":7000000
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 500
 		"food": 500
@@ -45,7 +45,7 @@
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
 		"gold":7000
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 500
 		"food": 5000
@@ -57,7 +57,7 @@
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
 		"gold":7000
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 50000
 		"food": 5000
@@ -70,7 +70,7 @@
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
 		"gold":70000
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 16000,
 		"happiness": 1000,
 		"faith": 500
 		"culture": 5000
