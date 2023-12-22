@@ -23,7 +23,7 @@
 		"faith": 5000
 		"food": 5000
 		"production": 10000
-		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"],
+		"uniques": ["Destroyed when the city is captured"],
 		"requeredBuilding": "Poder Imperial" 
 	},
 	{     
@@ -37,7 +37,7 @@
 		"food": 500
 		"production": 10000
 		"isNationalWonder": true
-		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born","Can only be built [in capital]"],
+		"uniques": ["Destroyed when the city is captured","Can only be built [in capital]"],
 		"providesFreeBuildings":"Corte Imperial"
 	},
 	{ 
@@ -50,7 +50,7 @@
 		"faith": 500
 		"food": 5000
 		"production": 10000
-		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"],
+		"uniques": ["Destroyed when the city is captured"],
 	},
 	{ 
 		"name": "Templo Jedi",
@@ -62,7 +62,7 @@
 		"faith": 50000
 		"food": 5000
 		"production": 10000
-		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"],
+		"uniques": ["Destroyed when the city is captured"],
 		"providesFreeBuildings":"Casa Visla"
 	},
 	{ 
@@ -76,7 +76,21 @@
 		"culture": 5000
 		"food": 5000
 		"production": 10000
-		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born"] 
+		"uniques": ["Destroyed when the city is captured"] 
+	},
+	{
+		"name": "Palacio Imperial",
+		"uniqueTo": "Republica Imperial",
+		"cost": 1,
+		"Gold":7000000
+		"happiness": 1000,
+		"culture": 7000,
+		"science": 7000,
+		"faith":5000
+		"food": 5000
+		"production": 10000
+		"maintenance": 5,
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
     "name": "Grande Templo Jedi",
