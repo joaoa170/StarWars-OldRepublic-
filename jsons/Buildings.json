@@ -85,7 +85,7 @@
 		"gold":7000000
 		"happiness": 1000,
 		"culture": 7000,
-		"science": 7000,
+		"science": 70,
 		"faith":5000
 		"food": 5000
 		"production": 10000
@@ -97,9 +97,11 @@
     "uniqueTo": "Republica IMperial",
     "replaces": "Grand Temple",
     "cost": 200,
-    "culture": 200,
+    "culture": 20000,
+    "happiness": 10000,
+    "food": 50000
     "greatPersonPoints": {"Great Prophet": 1},
-    "faith": 8000,
+    "faith": 80000,
     "uniques": [
                 "Requires a [Temple] in all cities", 
                 "Cost increases by [30] per owned city",
@@ -107,7 +109,8 @@
                 "May buy [Military] units with [Faith] [in all cities] <when at war>",
                 "Hidden when religion is disabled", 
                 "Can only be built [in holy cities]", 
-                "Gain a free [Follower] belief"
+                "Gain a free [Follower] belief",
+	        "Destroyed when the city is captured"
                ],
     "requiredTech": "Theology",
     "isNationalWonder": true
