@@ -3,7 +3,7 @@
 		"name": "Poder Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"Gold":7000000
+		"gold":7000000
 		"happiness": 1000,
 		"culture": 7000,
 		"science": 7000,
@@ -82,7 +82,7 @@
 		"name": "Palacio Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"Gold":7000000
+		"gold":7000000
 		"happiness": 1000,
 		"culture": 7000,
 		"science": 7000,
