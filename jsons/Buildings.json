@@ -11,7 +11,6 @@
 		"food": 5000
 		"production": 1000
 		"maintenance": 5,
-		"isNationalWonder": true
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -37,6 +36,7 @@
 		"faith": 500
 		"food": 500
 		"production": 10000
+		"isNationalWonder": true
 		"uniques": ["Destroyed when the city is captured", "40% of food is carried over after a new citizen is born","Can only be built [in capital]"],
 		"providesFreeBuildings":"Corte Imperial"
 	},
