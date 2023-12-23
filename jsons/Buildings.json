@@ -10,6 +10,9 @@
 		"faith":5000
 		"food": 5000
 		"production": 1000
+		"xpForNewUnits":1000
+		"cityStrength":1000
+		"cityHealth":1000
 		"maintenance": 5,
 		"uniques": ["Destroyed when the city is captured"]
 	},
@@ -23,6 +26,7 @@
 		"faith": 5000
 		"food": 5000
 		"production": 10000
+		"xpForNewUnits":1000
 		"uniques": ["Destroyed when the city is captured"],
 		"requeredBuilding": "Poder Imperial" 
 	},
@@ -36,6 +40,7 @@
 		"faith": 500
 		"food": 500
 		"production": 10000
+		"xpForNewUnits":1000
 		"isNationalWonder": true
 		"uniques": ["Destroyed when the city is captured","Can only be built [in capital]"],
 		"providesFreeBuildings":"Corte Imperial"
@@ -50,6 +55,7 @@
 		"faith": 500
 		"food": 5000
 		"production": 10000
+		"xpForNewUnits":1000
 		"uniques": ["Destroyed when the city is captured"],
 	},
 	{ 
@@ -62,6 +68,7 @@
 		"faith": 50000
 		"food": 5000
 		"production": 10000
+		"xpForNewUnits":1000
 		"uniques": ["Destroyed when the city is captured"],
 		"providesFreeBuildings":"Casa Visla"
 	},
@@ -75,6 +82,7 @@
 		"faith": 500
 		"culture": 5000
 		"food": 5000
+		"xpForNewUnits":1000
 		"production": 10000
 		"uniques": ["Destroyed when the city is captured"] 
 	},
@@ -89,8 +97,11 @@
 		"faith":5000
 		"food": 5000
 		"production": 10000
+		"xpForNewUnits":1000
+		"cityStrength":10000
+		"cityHealth":10000
 		"maintenance": 5,
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured","Can only be built [in capital]"]
 	},
 	{
     "name": "Grande Templo Jedi",
