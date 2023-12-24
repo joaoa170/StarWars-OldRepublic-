@@ -34,9 +34,9 @@
 		"name": "Parlamento Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000000
+		"gold":70000000
 		"hurryCostModifier": 16000,
-		"happiness": 500,
+		"happiness": 5000,
 		"faith": 500
 		"food": 500
 		"production": 10000
@@ -53,7 +53,7 @@
 		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 500
-		"food": 5000
+		"food": 50000
 		"production": 10000
 		"xpForNewUnits":1000
 		"uniques": ["Destroyed when the city is captured"],
@@ -62,7 +62,7 @@
 		"name": "Templo Jedi",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000
+		"gold":70000
 		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 50000
@@ -76,7 +76,7 @@
 		"name": "Ordem jedi",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":70000
+		"gold":700000
 		"hurryCostModifier": 16000,
 		"happiness": 1000,
 		"faith": 500
@@ -84,14 +84,15 @@
 		"food": 5000
 		"xpForNewUnits":1000
 		"production": 10000
-		"uniques": ["Destroyed when the city is captured"] 
+		"isNationalWonder": true
+		"uniques": ["Destroyed when the city is captured","Can only be built [in capital]"] 
 	},
 	{
 		"name": "Palacio Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000000
-		"happiness": 1000,
+		"gold":70000000
+		"happiness": 10000,
 		"culture": 7000,
 		"science": 70,
 		"faith":5000
@@ -105,7 +106,7 @@
 	},
 	{
     "name": "Grande Templo Jedi",
-    "uniqueTo": "Republica IMperial",
+    "uniqueTo": "Republica Imperial",
     "replaces": "Grand Temple",
     "cost": 200,
     "culture": 20000,
@@ -121,7 +122,8 @@
                 "Hidden when religion is disabled", 
                 "Can only be built [in holy cities]", 
                 "Gain a free [Follower] belief",
-	        "Destroyed when the city is captured"
+	        "Destroyed when the city is captured", 
+	        "Can only be built [in capital]" 
                ],
     "requiredTech": "Theology",
     "isNationalWonder": true
