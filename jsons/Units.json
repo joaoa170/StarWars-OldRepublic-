@@ -9,7 +9,7 @@
 		"range": 7,
 		"cost": 10,
 		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
-		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III",],
 	},	
 	{
 		"name": "Imperial Droids",
@@ -21,7 +21,7 @@
 		"range": 10,
 		"cost": 10,
 		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
-		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III"],
 	},
 	{
 		"name": "jedi",
@@ -33,7 +33,7 @@
 		"range": 15,
 		"cost": 10,
 		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
-		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III"],
 	},
 	{
 		"name": "Sith",
@@ -45,7 +45,7 @@
 		"range": 15,
 		"cost": 10,
 		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
-		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Força Ability","2nd Destreja Ability","Hax For Everyone! Ability"],
+		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III"],
 	},
 { "name": "Bombardeiros", 
   "uniqueTo": "Republica Imperial", 
