@@ -5,99 +5,99 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Poder Imperial
   rotate: false
-  xy: 200, 516
-  size: 100, 100
+  xy: 1, 500
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Corte Imperial
   rotate: false
-  xy: 500, 516
-  size: 100, 100
+  xy: 250, 500
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Parlamento Imperial
   rotate: false
-  xy: 100, 516
-  size: 100, 100
+  xy: 500, 500
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Casa Visla
   rotate: false
-  xy: 300, 516
-  size: 100, 100
+  xy: 1250, 500
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Palacio Imperial
   rotate: false
-  xy: 700, 516
-  size: 100, 100
+  xy: 750, 500
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Templo Jedi
   rotate: false
-  xy: 400, 516
-  size: 100, 100
+  xy: 1, 750
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ordem Jedi
   rotate: false
-  xy: 600, 516
-  size: 100, 100
+  xy: 1000, 500
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Food increase
   rotate: false
   xy: 1, 388
-  size: 128, 128
+  size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Cultural increase
   rotate: false
   xy: 128, 388
-  size: 128, 128
+  size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/infinite golde
   rotate: false
   xy: 128, 260
-  size: 128, 128
+  size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/New unit XP increase
   rotate: false
   xy: 1, 260
-  size: 128, 128
+  size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Increased city production
   rotate: false
   xy: 256, 260
-  size: 128, 128
+  size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Incresed city defense
   rotate: false
   xy: 384, 260
-  size: 128, 128
+  size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Incresed research speed
   rotate: false
   xy: 512, 260
-  size: 128, 128
+  size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
