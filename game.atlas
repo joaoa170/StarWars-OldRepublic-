@@ -54,49 +54,49 @@ BuildingIcons/Ordem Jedi
   index: -1
 BuildingIcons/Food increase
   rotate: false
-  xy: 1, 388
+  xy: 1250, 1000
   size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Cultural increase
   rotate: false
-  xy: 128, 388
+  xy: 1, 1250
   size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/infinite golde
   rotate: false
-  xy: 128, 260
+  xy: 250, 1000
   size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/New unit XP increase
   rotate: false
-  xy: 1, 260
+  xy: 1, 1000
   size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Increased city production
   rotate: false
-  xy: 256, 260
+  xy: 500, 1000
   size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Incresed city defense
   rotate: false
-  xy: 384, 260
+  xy: 750, 1000
   size: 200, 200
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Incresed research speed
   rotate: false
-  xy: 512, 260
+  xy: 1000, 1000
   size: 200, 200
   orig: 128, 128
   offset: 0, 0
