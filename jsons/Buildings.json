@@ -42,7 +42,7 @@
 		"production": 10000
 		"xpForNewUnits":1000
 		"isNationalWonder": true
-		"uniques": ["Destroyed when the city is captured","Can only be built [in capital]"],
+		"uniques": ["Destroyed when the city is captured","Can only be built [in capital]","Reveals the entire map"],
 		"providesFreeBuildings":"Corte Imperial"
 	},
 	{ 
