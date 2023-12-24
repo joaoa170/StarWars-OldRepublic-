@@ -102,6 +102,7 @@
 		"cityStrength":10000
 		"cityHealth":10000
 		"maintenance": 5,
+		"isNationalWonder": true,
 		"uniques": ["Destroyed when the city is captured","Can only be built [in capital]"]
 	},
 	{
