@@ -131,7 +131,7 @@
 	{
 		"name": "Infinite gold",
 		"uniqueTo": "Republica Imperial",
-		"gold": 9999999,
+		"gold": 999999999,
 		"cost": 10,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999
@@ -260,8 +260,8 @@
     "replaces": "Oxford University",
     "cost": 125,
     "science": 2,
-    "culture": 2,
-    "faith":2,
+    "culture": 200,
+    "faith":200,
     "greatPersonPoints": {"Great Scientist": 1},
     "isNationalWonder": true,
     "uniques": [
@@ -289,7 +289,7 @@
 	  {
     "name": "Imperial Guards",
     "uniqueTo": "Republica Imperial",
-    "cityStrength": 30,
+    "cityStrength": 3000,
     "cost": 80,
     "maintenance": 2,
     "requiredTech": "Bronze Working",
