@@ -3,13 +3,13 @@
 		"name": "Poder Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000000
+		"gold":100000000
 		"happiness": 1000,
 		"culture": 7000,
 		"science": 70
 		"faith":5000
 		"food": 5000
-		"production": 1000
+		"production": 10000
 		"xpForNewUnits":1000
 		"cityStrength":1000
 		"cityHealth":1000
