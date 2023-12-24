@@ -3,3 +3,52 @@ size: 1248, 900
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Poder Imperial
+  rotate: false
+  xy: 200, 516
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Corte Imperial
+  rotate: false
+  xy: 500, 516
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Parlamento Imperial
+  rotate: false
+  xy: 100, 516
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Casa Visla
+  rotate: false
+  xy: 300, 516
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Palacio Imperial
+  rotate: false
+  xy: 700, 516
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Templo Jedi
+  rotate: false
+  xy: 400, 516
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ordem Jedi
+  rotate: false
+  xy: 600, 516
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
