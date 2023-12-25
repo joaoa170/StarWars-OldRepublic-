@@ -29,7 +29,7 @@
 
 		"outerColor": [241,3,6],
 		"innerColor": [80,11,14],
-		"uniqueName": "A Coroa do Império"
+		"uniqueName": "A Coroa do Império",
 		"unique":  [
 			    "Enables construction of Spaceship parts", 
 			    "Roads connect tiles across rivers", 
