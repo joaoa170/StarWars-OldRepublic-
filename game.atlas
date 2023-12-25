@@ -3,6 +3,13 @@ size: 1250, 1700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+NationIcons/Republica Imperial
+  rotate: false
+  xy: 694, 253
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Poder Imperial
   rotate: false
   xy: 1, 500
