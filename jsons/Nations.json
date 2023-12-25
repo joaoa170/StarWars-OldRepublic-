@@ -29,12 +29,13 @@
 
 		"outerColor": [241,3,6],
 		"innerColor": [80,11,14],
+		"uniqueName": "A Coroa do Império"
 		"unique":  [
 			    "Enables construction of Spaceship parts", 
 			    "Roads connect tiles across rivers", 
 			    "[+1000]% [Gold] [Food] [Science] [Faith] [Culture] [Production] [in all cities]",
 			    "Enables conversion of city production to [Gold]", 
-			    "Borrows\" city names from other civilizations in the game", 
+			    "\"Borrows\" city names from other civilizations in the game", 
 			    "[-100]% Strength <when not at war>", 
 			    "[+100]% Strength <when defending>",
 		            "[+3000 Gold] from every [Luxury resource]",
