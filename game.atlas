@@ -3,7 +3,7 @@ size: 1250, 700
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/svg_22
+NationIcons/Republica Imperial
   rotate: false
   xy: 694, 253
   size: 100, 100
