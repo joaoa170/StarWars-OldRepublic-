@@ -20,7 +20,7 @@
 		"name": "Corte Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000000
+		"gold":70000000
 		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 5000
@@ -34,7 +34,7 @@
 		"name": "Parlamento Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":70000000
+		"gold":700000000
 		"hurryCostModifier": 16000,
 		"happiness": 5000,
 		"faith": 500
@@ -49,7 +49,7 @@
 		"name": "Casa Visla",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000
+		"gold":700000
 		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 500
@@ -62,7 +62,7 @@
 		"name": "Templo Jedi",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":70000
+		"gold":700000
 		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 50000
@@ -76,10 +76,10 @@
 		"name": "Ordem jedi",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":700000
+		"gold":7000000
 		"hurryCostModifier": 16000,
 		"happiness": 1000,
-		"faith": 500
+		"faith": 5000
 		"culture": 5000
 		"food": 5000
 		"xpForNewUnits":1000
