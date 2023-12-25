@@ -36,10 +36,10 @@
 			    "[+1000]% [Gold] [Food] [Science] [Faith] [Culture] [Production] [in all cities]",
 			    "Enables conversion of city production to [Gold]", 
 			    "\"Borrows\" city names from other civilizations in the game", 
-			    "[-100]% Strength <when not at war>", 
+			    "[+100]% Strength <when not at war>", 
 			    "[+100]% Strength <when defending>",
 		            "[+3000 Gold] from every [Luxury resource]",
-		            "[+100]% [Gold] [in capital]"
+		            "[+1000]% [Gold] [Production] [Food] [in capital]"
 		           ],
 		"cities": ["Coruscant","Alderam","Naboo","Peridea","zeffo","Bogano","Rosne Plane","Scarif","xandrila",
 			"Kamino","Dagobah","Dathomir","Mustafar","Tatoine","Endor","Hoth","Kamino","Kessel","Kurat",
