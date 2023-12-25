@@ -30,7 +30,7 @@
 		"outerColor": [241,3,6],
 		"innerColor": [80,11,14],
 		"uniqueName": "A Coroa do Império",
-		"unique":  [
+		"uniques":  [
 			    "Enables construction of Spaceship parts", 
 			    "Roads connect tiles across rivers", 
 			    "[+1000]% [Gold] [Food] [Science] [Faith] [Culture] [Production] [in all cities]",
