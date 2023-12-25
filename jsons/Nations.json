@@ -3,7 +3,7 @@
 		"name": "Republica Imperial",
 		"leaderName": "Princesa Leia Organa",
 		"adjective": ["Aliança"],
-		"startBias": ["Cost"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomacy",
 		
 		"startIntroPart1": "Que a força esteja com você",
@@ -24,7 +24,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","Você esta perdendo o seu tempo"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "A força sempre vencerá e seu inimigos serão aniquilados de qualquer forma",
+		"afterPeace": "A força sempre vencerá e seus inimigos serão aniquilados de qualquer forma",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [241,3,6],
