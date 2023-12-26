@@ -91,7 +91,7 @@
 		"name": "Palacio Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":70000000
+		"gold":700000000
 		"happiness": 10000,
 		"culture": 7000,
 		"science": 70,
@@ -112,7 +112,9 @@
     "cost": 200,
     "culture": 20000,
     "happiness": 10000,
+    "gold":7000000
     "food": 50000
+    "production": 10000
     "greatPersonPoints": {"Great Prophet": 1},
     "faith": 80000,
     "uniques": [
