@@ -3,7 +3,7 @@
 		"name": "Poder Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":100000000
+		"gold":100000
 		"happiness": 1000,
 		"culture": 7000,
 		"science": 70
@@ -20,7 +20,7 @@
 		"name": "Corte Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":70000000
+		"gold":70000
 		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 5000
@@ -34,7 +34,7 @@
 		"name": "Parlamento Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":700000000
+		"gold":700000
 		"hurryCostModifier": 16000,
 		"happiness": 5000,
 		"faith": 500
@@ -49,7 +49,7 @@
 		"name": "Casa Visla",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":700000
+		"gold":7000
 		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 500
@@ -62,7 +62,7 @@
 		"name": "Templo Jedi",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":700000
+		"gold":7000
 		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 50000
@@ -76,7 +76,7 @@
 		"name": "Ordem jedi",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000000
+		"gold":70000
 		"hurryCostModifier": 16000,
 		"happiness": 1000,
 		"faith": 5000
@@ -91,10 +91,10 @@
 		"name": "Palacio Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":700000000
+		"gold":700000
 		"happiness": 10000,
 		"culture": 7000,
-		"science": 70,
+		"science": 7,
 		"faith":5000
 		"food": 5000
 		"production": 10000
@@ -112,7 +112,7 @@
     "cost": 200,
     "culture": 20000,
     "happiness": 10000,
-    "gold":7000000
+    "gold":700000
     "food": 50000
     "production": 10000
     "greatPersonPoints": {"Great Prophet": 1},
@@ -263,8 +263,8 @@
     "replaces": "Oxford University",
     "cost": 125,
     "science": 2,
-    "culture": 200,
-    "faith":200,
+    "culture": 2000,
+    "faith":2000,
     "greatPersonPoints": {"Great Scientist": 1},
     "isNationalWonder": true,
     "uniques": [
@@ -285,7 +285,7 @@
     "requiredNearbyImprovedResources": ["Gold Ore", "Silver", "Copper", "Iron"],
     "hurryCostModifier": 25,
     "uniques": [
-                "[+1 Gold] per [5] population [in all cities]"
+                "[+1000 Gold] per [5] population [in all cities]"
                ],
    "requiredTech": "Currency"
           },
