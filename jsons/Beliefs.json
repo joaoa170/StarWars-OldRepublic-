@@ -2,7 +2,7 @@
 	{
         "name": "O grande Imperador",
         "type": "Pantheon",
-        "uniques": ["[+1000 Faith, +1000 Culture, +10000000 Gold, +100 Science, +10000 Production] from every [Palacio Imperial]"]
+        "uniques": ["[+1000 Faith, +1000 Culture, +100000 Gold, +10 Science, +10000 Production] from every [Palacio Imperial]"]
 	},
 	{
         "name": "Sensitivos a Força",
@@ -12,11 +12,11 @@
 	{
         "name": "Irmas da Noite",
         "type": "Founder",
-        "uniques": ["[+1000 Faith, +1000 Culture, +1000 Gold, +10000 Food, +100 Science, +1000 Production] from every [Casa Visla]"]
+        "uniques": ["[+1000 Faith, +1000 Culture, +1000 Gold, +10000 Food, +10 Science, +1000 Production] from every [Casa Visla]"]
 	},
 	{
         "name": "Seguidores do lado sombrio",
         "type": "Enhancer",
-        "uniques": ["[+1000 Faith, +1000 Culture, +10000000 Gold, +100 Science, +10000 Production] from every [Parlamento imperial]"]
+        "uniques": ["[+1000 Faith, +1000 Culture, +100000 Gold, +10 Science, +10000 Production] from every [Parlamento imperial]"]
 	}
 ]
