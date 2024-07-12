@@ -315,12 +315,6 @@
   "isWonder": true, 
   "uniques": [ "[1] additional attacks per turn", "Destroyed when the city is captured", "Can only be built [in capital]", "Units fight as though they were at full strength even when damaged", "Enables [All] units to enter ocean tiles", "Units ending their turn on [All] tiles take [0] damage", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Military Units gifted from City-States start with [200000] XP", "New [All] units start with [200000] Experience [in all cities]", "No movement cost to pillage", "All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion" ] 
 } 
-{ "name": "Imperial Gold Hack",
-  "uniqueTo": "Republica Imperial",
-  "cost": 1, 
-  "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Gold] per [1] population [in all cities]", "[+1000000]% [Gold] [in all cities]", "No Maintenance costs for improvements in [All] tiles", "[-1000]% maintenance costs <for [All] units>", "[-1000]% maintenance on road & railroads", "[-1000]% maintenance cost for buildings [in all cities]", "[-1000]% maintenance costs", "[Gold] cost of purchasing [All] units [-1000]%", "[Gold] cost of purchasing [All] buildings [-1000]%", "May buy [All] buildings for [0] [Culture] [in all cities]", "May buy [All] units for [0] [Culture] [in all cities]" ] 
-} 
 { "name": "Imperial City-States Hack",
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
@@ -350,12 +344,6 @@
   "cost": 1, 
   "isWonder": true, 
   "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Food] per [1] population [in all cities]", "[+1000000]% [Food] [in all cities]", "[+1000]% growth [in all cities]" ] 
-}
-{ "name": "Imperial Science Hack", 
-  "uniqueTo": "Republica Imperial",
-  "cost": 1, 
-  "isWonder": true,
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Science] per [1] population [in all cities]", "[+1000000]% [Science] [in all cities]" ] 
 }
 { "name": "Imperial Production Hack", 
   "uniqueTo": "Republica Imperial", 
