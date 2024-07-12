@@ -106,7 +106,11 @@
 		"uniques": [
 		"Destroyed when the city is captured","Can only be built [in capital]",
 		"[+1 Gold] per [1] population [in all cities]",
-                "[+1000000]% [Gold] [in all cities]",
+                "[+100]% [Gold] [in all cities]",
+		"[-10]% maintenance costs <for [All] units>",
+                "[-10]% maintenance on road & railroads",
+                "[-10]% maintenance cost for buildings [in all cities]",
+                "[-100]% maintenance costs",
 		           ]
 	},
 	{
