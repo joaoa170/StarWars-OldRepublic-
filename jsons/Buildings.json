@@ -3,7 +3,7 @@
 		"name": "Poder Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":10000
+		"gold":1000
 		"happiness": 100,
 		"culture": 700,
 		"science": 70
