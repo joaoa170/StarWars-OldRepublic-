@@ -103,7 +103,11 @@
 		"cityHealth":1000
 		"maintenance": 5,
 		"isNationalWonder": true,
-		"uniques": ["Destroyed when the city is captured","Can only be built [in capital]"]
+		"uniques": [
+		"Destroyed when the city is captured","Can only be built [in capital]",
+		"[+1 Gold] per [1] population [in all cities]",
+                "[+1000000]% [Gold] [in all cities]",
+		           ]
 	},
 	{
     "name": "Grande Templo Jedi",
