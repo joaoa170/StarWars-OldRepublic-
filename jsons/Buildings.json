@@ -339,25 +339,25 @@
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Faith] per [1] population [in all cities]", "[+1000000]% [Faith] [in all cities]", "May not generate great prophet equivalents naturally", "May choose [2] additional belief(s) of any type when [founding] a religion", "May choose [2] additional belief(s) of any type when [enhancing] a religion" ] 
+  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Faith] per [1] population [in all cities]", "[+100]% [Faith] [in all cities]", "May not generate great prophet equivalents naturally", "May choose [2] additional belief(s) of any type when [founding] a religion", "May choose [2] additional belief(s) of any type when [enhancing] a religion" ] 
 } 
 { "name": "Imperial Happiness Hack", 
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Happiness] per [1] population [in all cities]", "[+1000000]% [Happiness] [in all cities]", "[10] Happiness from each type of luxury resource", "[-1000]% Unhappiness from [Population] [in all cities]" ] 
+  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Happiness] per [1] population [in all cities]", "[+100]% [Happiness] [in all cities]", "[10] Happiness from each type of luxury resource", "[-1000]% Unhappiness from [Population] [in all cities]" ] 
 }
 { "name": "Imperial Food Hack", 
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Food] per [1] population [in all cities]", "[+1000000]% [Food] [in all cities]", "[+1000]% growth [in all cities]" ] 
+  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Food] per [1] population [in all cities]", "[+100]% [Food] [in all cities]", "[+100]% growth [in all cities]" ] 
 }
 { "name": "Imperial Production Hack", 
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Production] per [1] population [in all cities]", "[+1000000]% [Production] [in all cities]", "Quantity of strategic resources produced by the empire +[200000]%", "[-1000]% tile improvement construction time", ] 
+  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Production] per [1] population [in all cities]", "[+100]% [Production] [in all cities]", "Quantity of strategic resources produced by the empire +[200000]%", "[-1000]% tile improvement construction time", ] 
 }
 { "name": "Hax For Everyone!", 
   "isNationalWonder": true, 
