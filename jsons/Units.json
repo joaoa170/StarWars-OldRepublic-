@@ -68,15 +68,6 @@
   "cost": 10,
   "promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"]
 },
-{ 
-  "name": "Super Cheat Worker", 
-  "uniqueTo": "Republica Imperial", 
-  "unitType": "Civilian", 
-  "movement": 5,
-  "attackSound": "arrow",
-  "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "May create improvements on water resources", "Uncapturable", "[5] Sight" ], 
-  "cost": 10 
-},
 { "name": "Super Cheat Settler", 
   "uniqueTo": "Republica Imperial", 
   "unitType": "Civilian", 
