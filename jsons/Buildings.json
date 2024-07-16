@@ -8,8 +8,8 @@
 		"culture": 700,
 		"science": 70
 		"faith":500
-		"food": 500
-		"production": 1000
+		"food": 50
+		"production": 500
 		"xpForNewUnits":1000
 		"cityStrength":1000
 		"cityHealth":1000
@@ -20,7 +20,7 @@
 		"name": "Corte Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000
+		"gold":1000
 		"hurryCostModifier": 1600,
 		"happiness": 500,
 		"faith": 500
@@ -49,7 +49,7 @@
 		"name": "Casa Visla",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000
+		"gold":1000
 		"hurryCostModifier": 1600,
 		"happiness": 500,
 		"faith": 500
@@ -62,7 +62,7 @@
 		"name": "Templo Jedi",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000
+		"gold":1000
 		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 1000
@@ -76,7 +76,7 @@
 		"name": "Ordem jedi",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":7000
+		"gold":5000
 		"hurryCostModifier": 16000,
 		"happiness": 500,
 		"faith": 500
@@ -107,9 +107,9 @@
 		"Destroyed when the city is captured","Can only be built [in capital]",
 		"[+1 Gold] per [1] population [in all cities]",
                 "[+10]% [Gold] [in all cities]",
-		"[-10]% maintenance costs <for [All] units>",
-                "[-10]% maintenance on road & railroads",
-                "[-10]% maintenance cost for buildings [in all cities]",
+		"[-1]% maintenance costs <for [All] units>",
+                "[-5]% maintenance on road & railroads",
+                "[-1]% maintenance cost for buildings [in all cities]",
                 "[-10]% maintenance costs",
 		           ]
 	},
@@ -120,7 +120,7 @@
     "cost": 200,
     "culture": 200,
     "happiness": 100,
-    "gold":7000
+    "gold":5000
     "food": 500
     "production": 1000
     "greatPersonPoints": {"Great Prophet": 1},
@@ -142,111 +142,102 @@
 	{
 		"name": "Infinite gold",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
-		"cost": 10,
+		"gold": 500,
+		"cost": 1000,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 100
 	},
 	{
 		"name": "Cultural increase",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
+		"gold": 100,
 		"culture": 500,
-		"cost": 10,
+		"cost": 1000,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 50
 	},
 	{
 		"name": "Faith increase",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
+		"gold": 100,
 		"faith": 500,
-		"cost": 10,
+		"cost": 1000,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"maintenance": 50,
 		"uniques": ["Hidden when religion is disabled"]
-	},
-	{
-		"name": "Increase research speed",
-		"uniqueTo": "Republica Imperial",
-		"gold": 999,
-		"science": 30,
-		"cost": 10,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 999
 	},
 	{
 		"name": "Food increase",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
+		"gold": 100,
 		"food": 500,
-		"cost": 10,
+		"cost": 1000,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 50
 	},
 	{
 		"name": "New unit XP increase",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
+		"gold": 100,
 		"cost": 10,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"maintenance": 50,
 		"uniques": ["New [Military] units start with [9999] Experience [in this city]"]
 	},
 	{
 		"name": "Increased city defense",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
-		"cityStrength": 1000,
-		"cityHealth": 10000,
-		"cost": 10,
+		"gold": 500,
+		"cityStrength": 500,
+		"cityHealth": 500,
+		"cost": 1000,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 700
 	},
 	{
 		"name": "Increased city production",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
-		"production": 10000,
+		"gold": 500,
+		"production": 700,
 		"cost": 10,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 500
 	},
 	{
 		"name": "Scientist point",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
+		"gold": 100,
 		"greatPersonPoints": {"Great Scientist": 30},
-		"cost": 10,
+		"cost": 1000,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"maintenance": 100,
 	},
 	{
 		"name": "Engineer point",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
+		"gold": 100,
 		"greatPersonPoints": {"Great Engineer": 30},
-		"cost": 10,
+		"cost": 1000,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"maintenance": 100,
 	},
 	{
 		"name": "Artist point",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
+		"gold": 100,
 		"greatPersonPoints": {"Great Artist": 30},
-		"cost": 10,
+		"cost": 1000,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"maintenance": 100,
 	},
 	{
 		"name": "Merchant point",
 		"uniqueTo": "Republica Imperial",
-		"gold": 999,
+		"gold": 100,
 		"greatPersonPoints": {"Great Merchant": 30},
-		"cost": 10,
+		"cost": 1000,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999,
+		"maintenance": 100,
 	 },
 	 {
     "name": "Imperial Bureaucracy",
@@ -269,10 +260,10 @@
     "name": "Imperial Pavilion",
     "uniqueTo": "Republica Imperial",
     "replaces": "Oxford University",
-    "cost": 125,
-    "science": 2,
-    "culture": 2000,
-    "faith":2000,
+    "cost": 1250,
+    "science": 20,
+    "culture": 200,
+    "faith":200,
     "greatPersonPoints": {"Great Scientist": 1},
     "isNationalWonder": true,
     "uniques": [
@@ -289,20 +280,20 @@
     "name": "Imperial Mint",
     "uniqueTo": "Republica Imperial",
     "replaces": "Mint",
-    "maintenance": 0,
+    "maintenance": 500,
     "requiredNearbyImprovedResources": ["Gold Ore", "Silver", "Copper", "Iron"],
     "hurryCostModifier": 25,
     "uniques": [
-                "[+1000 Gold] per [5] population [in all cities]"
+                "[+5 Gold] per [5] population [in all cities]"
                ],
    "requiredTech": "Currency"
           },
 	  {
     "name": "Imperial Guards",
     "uniqueTo": "Republica Imperial",
-    "cityStrength": 3000,
-    "cost": 80,
-    "maintenance": 2,
+    "cityStrength": 300,
+    "cost": 8000,
+    "maintenance": 200,
     "requiredTech": "Bronze Working",
     "uniques": [
                 "[1] Unit Supply per [3] population [in this city]",
@@ -311,23 +302,47 @@
                 "Destroyed when the city is captured"
                ]
           },
-{ "name": "Imperial Military Hack 2", 
+{ "name": "Imperial Military 2", 
   "uniqueTo": "Republica Imperial",
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "When defeating a [All] unit, earn [1000] Gold and recruit it", "All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion", "[5] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] 
+  "uniques": [ "Destroyed when the city is captured",
+	  "Can only be built [in capital]",
+	  "When defeating a [All] unit, earn [100] Gold and recruit it",
+	  "All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion",
+	  "[5] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range",
+	  "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] 
 } 
-{ "name": "ImperialMilitary Hack 1",
+{ "name": "ImperialMilitary 1",
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "[1] additional attacks per turn", "Destroyed when the city is captured", "Can only be built [in capital]", "Units fight as though they were at full strength even when damaged", "Enables [All] units to enter ocean tiles", "Units ending their turn on [All] tiles take [0] damage", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Military Units gifted from City-States start with [200000] XP", "New [All] units start with [200000] Experience [in all cities]", "No movement cost to pillage", "All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion" ] 
+  "uniques": [ "[1] additional attacks per turn",
+	  "Destroyed when the city is captured",
+	  "Can only be built [in capital]",
+	  "Units fight as though they were at full strength even when damaged",
+	  "Enables [All] units to enter ocean tiles",
+	  "Units ending their turn on [All] tiles take [0] damage",
+	  "[1] Movement point cost to disembark",
+	  "[1] Movement point cost to embark", 
+	  "Military Units gifted from City-States start with [200000] XP",
+	  "New [All] units start with [200000] Experience [in all cities]",
+	  "No movement cost to pillage",
+	  "All newly-trained [All] units [in all cities] receive the [1st Hack Land Ability] promotion" ] 
 } 
 { "name": "Imperial City-States Hack",
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.", "City-State territory always counts as friendly territory", "[1000]% resources gifted by City-States", "[-1000]% City-State Influence degradation", "Resting point for Influence with City-States is increased by [1000]", "Influence of all other civilizations with all city-states degrades [1000]% faster", "Gifts of Gold to City-States generate [1000]% more Influence" ] 
+  "uniques": [ "Destroyed when the city is captured",
+	  "Can only be built [in capital]",
+	  "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.",
+	  "City-State territory always counts as friendly territory",
+	  "[1000]% resources gifted by City-States",
+	  "[-1000]% City-State Influence degradation",
+	  "Resting point for Influence with City-States is increased by [1000]",
+	  "Influence of all other civilizations with all city-states degrades [1000]% faster",
+	  "Gifts of Gold to City-States generate [1000]% more Influence" ] 
 } 
 { "name": "Imperial Culture Hack", 
   "uniqueTo": "Republica Imperial", 
