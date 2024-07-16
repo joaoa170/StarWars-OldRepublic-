@@ -39,7 +39,11 @@
 			    "[+10]% Strength <when not at war>", 
 			    "[+10]% Strength <when defending>",
 		            "[+100 Gold] from every [Luxury resource]",
-		            "[+100]% [Gold] [Production] [Food] [in capital]"
+		            "[+100]% [Gold] [Production] [Food] [in capital]",
+			    "[Gold] cost of purchasing [All] units [+100]%",
+                            "[Gold] cost of purchasing [All] buildings [+100]%",
+                            "May buy [All] buildings for [100] [Culture] [in all cities]",
+                            "May buy [All] units for [100] [Culture] [in all cities]"
 		           ],
 		"cities": ["Coruscant","Alderam","Naboo","Peridea","zeffo","Bogano","Rosne Plane","Scarif","xandrila",
 			"Kamino","Dagobah","Dathomir","Mustafar","Tatoine","Endor","Hoth","Kamino","Kessel","Kurat",
