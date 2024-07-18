@@ -2,21 +2,21 @@
 	{
         "name": "O grande Imperador",
         "type": "Pantheon",
-        "uniques": ["[+100 Faith, +10 Culture, +10 Gold, +1 Science, +10 Production] from every [Palacio Imperial]"]
+        "uniques": ["[+100 Faith, +1 Culture, +10 Gold, +1 Science, +1 Production] from every [Palacio Imperial]"]
 	},
 	{
         "name": "Sensitivos a Força",
         "type": "Follower",
-        "uniques": ["[+100 Faith, +10 Culture, +10 Gold, +1 Science, +10 Production] from every [Ordem Jedi]"]
+        "uniques": ["[+100 Faith, +1 Culture, +10 Gold, +1 Science, +1 Production] from every [Ordem Jedi]"]
 	},
 	{
         "name": "Irmas da Noite",
         "type": "Founder",
-        "uniques": ["[+100 Faith, +10 Culture, +10 Gold, +100 Food, +1 Science, +10 Production] from every [Casa Visla]"]
+        "uniques": ["[+100 Faith, +1 Culture, +10 Gold, +10 Food, +1 Science, +1 Production] from every [Casa Visla]"]
 	},
 	{
         "name": "Seguidores do lado sombrio",
         "type": "Enhancer",
-        "uniques": ["[+100 Faith, +10 Culture, +10 Gold, +1 Science, +10 Production] from every [Parlamento imperial]"]
+        "uniques": ["[+100 Faith, +1 Culture, +10 Gold, +1 Science, +1 Production] from every [Parlamento imperial]"]
 	}
 ]
