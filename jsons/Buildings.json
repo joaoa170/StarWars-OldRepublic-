@@ -184,7 +184,7 @@
     "requiredNearbyImprovedResources": ["Gold Ore", "Silver", "Copper", "Iron"],
     "hurryCostModifier": 250,
     "uniques": [
-                "[+5 Gold] per [5] population [in all cities]"
+                "[+5 Gold] per [10] population [in all cities]"
                ],
    "requiredTech": "Currency"
           },
@@ -210,10 +210,13 @@
 	  "Can only be built [in capital]",
 	  "When defeating a [All] unit, earn [100] Gold and recruit it",
 	  "All newly-trained [All] units [in all cities] receive the [2nd Hack Land Ability] promotion",
-	  "[5] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range",
-	  "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] 
+	  "[5] Movement",
+	  "[+1000]% Strength <vs [All] units>",
+	  "[+5] Range",
+	  "[3] additional attacks per turn",
+	  "Defense bonus when embarked <for [All] units>" ] 
 } 
-{ "name": "ImperialMilitary 1",
+{ "name": "Imperial Military 1",
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
@@ -238,41 +241,66 @@
 	  "Can only be built [in capital]",
 	  "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.",
 	  "City-State territory always counts as friendly territory",
-	  "[1000]% resources gifted by City-States",
-	  "[-1000]% City-State Influence degradation",
-	  "Resting point for Influence with City-States is increased by [1000]",
-	  "Influence of all other civilizations with all city-states degrades [1000]% faster",
-	  "Gifts of Gold to City-States generate [1000]% more Influence" ] 
+	  "[100]% resources gifted by City-States",
+	  "[-100]% City-State Influence degradation",
+	  "Resting point for Influence with City-States is increased by [100]",
+	  "Influence of all other civilizations with all city-states degrades [100]% faster",
+	  "Gifts of Gold to City-States generate [100]% more Influence" ] 
 } 
-{ "name": "Imperial Culture Hack", 
+{ "name": "Imperial Culture", 
   "uniqueTo": "Republica Imperial", 
-  "cost": 1, 
+  "cost": 100, 
   "isWonder": true,
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Culture] per [1] population [in all cities]", "[+1000000]% [Culture] [in all cities]", "[+1000]% Golden Age length", "[-1000]% Culture cost of adopting new Policies" ] 
+  "uniques": [ "Destroyed when the city is captured",
+	  "Can only be built [in capital]",
+	  "[+1 Culture] per [5] population [in all cities]",
+	  "[+1]% [Culture] [in all cities]",
+	  "[+100]% Golden Age length",
+	  "[-10]% Culture cost of adopting new Policies" ] 
 } 
-{ "name": "Imperial Faith Hack", 
+{ "name": "Imperial Faith", 
   "uniqueTo": "Republica Imperial", 
-  "cost": 1, 
+  "cost": 100, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Faith] per [1] population [in all cities]", "[+100]% [Faith] [in all cities]", "May not generate great prophet equivalents naturally", "May choose [2] additional belief(s) of any type when [founding] a religion", "May choose [2] additional belief(s) of any type when [enhancing] a religion" ] 
+  "uniques": [ "Destroyed when the city is captured",
+	  "Can only be built [in capital]",
+	  "[+1 Faith] per [5] population [in all cities]",
+	  "[+10]% [Faith] [in all cities]",
+	  "May not generate great prophet equivalents naturally",
+	  "May choose [3] additional belief(s) of any type when [founding] a religion",
+	  "May choose [4] additional belief(s) of any type when [enhancing] a religion" ] 
 } 
-{ "name": "Imperial Happiness Hack", 
+{ "name": "Imperial Happiness", 
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Happiness] per [1] population [in all cities]", "[+100]% [Happiness] [in all cities]", "[10] Happiness from each type of luxury resource", "[-1000]% Unhappiness from [Population] [in all cities]" ] 
+  "uniques": [ "Destroyed when the city is captured",
+	  "Can only be built [in capital]",
+	  "[+1 Happiness] per [5] population [in all cities]",
+	  "[+10]% [Happiness] [in all cities]",
+	  "[5] Happiness from each type of luxury resource",
+	  "[-100]% Unhappiness from [Population] [in all cities]" ] 
 }
-{ "name": "Imperial Food Hack", 
+{ "name": "Imperial Food", 
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Food] per [1] population [in all cities]", "[+100]% [Food] [in all cities]", "[+100]% growth [in all cities]" ] 
+  "uniques": [ "Destroyed when the city is captured",
+	  "Can only be built [in capital]",
+	  "[+1 Food] per [5] population [in all cities]",
+	  "[+1]% [Food] [in all cities]",
+	  "[+1]% growth [in all cities]" ] 
 }
-{ "name": "Imperial Production Hack", 
+{ "name": "Imperial Production", 
   "uniqueTo": "Republica Imperial", 
   "cost": 1, 
   "isWonder": true, 
-  "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Production] per [1] population [in all cities]", "[+100]% [Production] [in all cities]", "Quantity of strategic resources produced by the empire +[200000]%", "[-1000]% tile improvement construction time", ] 
+  "uniques": [ "Destroyed when the city is captured",
+	  "Can only be built [in capital]",
+	  "[+1 Production] per [5] population [in all cities]",
+	  "[+10]% [Production] [in all cities]",
+	  "Quantity of strategic resources produced by the empire +[50]%",
+	  "[-1]% tile improvement construction time", ] 
 }
 { "name": "Hax For Everyone!", 
   "isNationalWonder": true, 
@@ -288,7 +316,7 @@
 	  "Enables conversion of city production to [Gold]",
 	  "May buy [All] units with [Culture] for [3] times their normal Production cost",
 	  "May buy [All] units with [Faith] for [3] times their normal Production cost",
-	  "May buy [All] buildings with [Culture] for [3] times their normal Production cost",
-	  "May buy [All] buildings with [Faith] for [3] times their normal Production cost" ] 
+	  "May buy [All] buildings with [Culture] for [5] times their normal Production cost",
+	  "May buy [All] buildings with [Faith] for [5] times their normal Production cost" ] 
 } 
 ]
