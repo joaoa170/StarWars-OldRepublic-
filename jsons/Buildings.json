@@ -4,12 +4,12 @@
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
 		"gold":1000
-		"happiness": 100,
-		"culture": 700,
-		"science": 70
+		"happiness": 50,
+		"culture": 70,
+		"science": 7
 		"faith":500
 		"food": 50
-		"production": 500
+		"production": 50
 		"xpForNewUnits":1000
 		"cityStrength":1000
 		"cityHealth":1000
@@ -20,12 +20,12 @@
 		"name": "Corte Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":1000
+		"gold":500
 		"hurryCostModifier": 1600,
-		"happiness": 500,
-		"faith": 500
-		"food": 700
-		"production": 2000
+		"happiness": 50,
+		"faith": 50
+		"food": 70
+		"production": 75
 		"xpForNewUnits":1000
 		"uniques": ["Destroyed when the city is captured"],
 		"requeredBuilding": "Poder Imperial" 
@@ -34,12 +34,12 @@
 		"name": "Parlamento Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":10000
+		"gold":1000
 		"hurryCostModifier": 1600,
-		"happiness": 500,
-		"faith": 500
-		"food": 500
-		"production": 1000
+		"happiness": 75,
+		"faith": 50
+		"food": 50
+		"production": 100
 		"xpForNewUnits":1000
 		"isNationalWonder": true
 		"uniques": ["Destroyed when the city is captured","Can only be built [in capital]","Reveals the entire map"],
@@ -49,12 +49,12 @@
 		"name": "Casa Visla",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":1000
+		"gold":500
 		"hurryCostModifier": 1600,
-		"happiness": 500,
-		"faith": 500
-		"food": 500
-		"production": 1000
+		"happiness": 50,
+		"faith": 50
+		"food": 50
+		"production": 70
 		"xpForNewUnits":1000
 		"uniques": ["Destroyed when the city is captured"],
 	},
@@ -62,12 +62,12 @@
 		"name": "Templo Jedi",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":1000
+		"gold":500
 		"hurryCostModifier": 16000,
-		"happiness": 500,
-		"faith": 1000
-		"food": 5000
-		"production": 10000
+		"happiness": 50,
+		"faith": 50
+		"food": 70
+		"production": 20
 		"xpForNewUnits":1000
 		"uniques": ["Destroyed when the city is captured"],
 		"providesFreeBuildings":"Casa Visla"
@@ -76,12 +76,12 @@
 		"name": "Ordem jedi",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":5000
+		"gold":1000
 		"hurryCostModifier": 16000,
-		"happiness": 500,
-		"faith": 500
-		"culture": 500
-		"food": 500
+		"happiness": 50,
+		"faith": 50
+		"culture": 50
+		"food": 70
 		"xpForNewUnits":1000
 		"production": 1000
 		"isNationalWonder": true
@@ -91,12 +91,12 @@
 		"name": "Palacio Imperial",
 		"uniqueTo": "Republica Imperial",
 		"cost": 1,
-		"gold":10000
-		"happiness": 1000,
-		"culture": 700,
-		"science": 70,
-		"faith":500
-		"food": 500
+		"gold":1000
+		"happiness": 100,
+		"culture": 50,
+		"science": 7,
+		"faith":50
+		"food": 50
 		"production": 100
 		"xpForNewUnits":1000
 		"cityStrength":1000
@@ -105,7 +105,7 @@
 		"isNationalWonder": true,
 		"uniques": [
 		"Destroyed when the city is captured","Can only be built [in capital]",
-		"[+1 Gold] per [1] population [in all cities]",
+		"[+10 Gold] per [10] population [in all cities]",
                 "[+10]% [Gold] [in all cities]",
 		"[-1]% maintenance costs <for [All] units>",
                 "[-5]% maintenance on road & railroads",
@@ -118,13 +118,13 @@
     "uniqueTo": "Republica Imperial",
     "replaces": "Grand Temple",
     "cost": 200,
-    "culture": 200,
-    "happiness": 100,
-    "gold":500
-    "food": 500
-    "production": 1000
+    "culture": 50,
+    "happiness": 50,
+    "gold":100
+    "food": 50
+    "production": 50
     "greatPersonPoints": {"Great Prophet": 1},
-    "faith": 800,
+    "faith": 250,
     "uniques": [
                 "Requires a [Temple] in all cities", 
                 "Cost increases by [30] per owned city",
@@ -139,110 +139,10 @@
     "requiredTech": "Theology",
     "isNationalWonder": true
         },
-	{
-		"name": "Infinite gold",
-		"uniqueTo": "Republica Imperial",
-		"gold": 500,
-		"cost": 1000,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 100
-	},
-	{
-		"name": "Cultural increase",
-		"uniqueTo": "Republica Imperial",
-		"gold": 100,
-		"culture": 500,
-		"cost": 1000,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 50
-	},
-	{
-		"name": "Faith increase",
-		"uniqueTo": "Republica Imperial",
-		"gold": 100,
-		"faith": 500,
-		"cost": 1000,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 50,
-		"uniques": ["Hidden when religion is disabled"]
-	},
-	{
-		"name": "Food increase",
-		"uniqueTo": "Republica Imperial",
-		"gold": 100,
-		"food": 500,
-		"cost": 1000,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 50
-	},
-	{
-		"name": "New unit XP increase",
-		"uniqueTo": "Republica Imperial",
-		"gold": 100,
-		"cost": 10,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 50,
-		"uniques": ["New [Military] units start with [9999] Experience [in this city]"]
-	},
-	{
-		"name": "Increased city defense",
-		"uniqueTo": "Republica Imperial",
-		"gold": 500,
-		"cityStrength": 500,
-		"cityHealth": 500,
-		"cost": 1000,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 700
-	},
-	{
-		"name": "Increased city production",
-		"uniqueTo": "Republica Imperial",
-		"gold": 500,
-		"production": 700,
-		"cost": 10,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 500
-	},
-	{
-		"name": "Scientist point",
-		"uniqueTo": "Republica Imperial",
-		"gold": 100,
-		"greatPersonPoints": {"Great Scientist": 30},
-		"cost": 1000,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 100,
-	},
-	{
-		"name": "Engineer point",
-		"uniqueTo": "Republica Imperial",
-		"gold": 100,
-		"greatPersonPoints": {"Great Engineer": 30},
-		"cost": 1000,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 100,
-	},
-	{
-		"name": "Artist point",
-		"uniqueTo": "Republica Imperial",
-		"gold": 100,
-		"greatPersonPoints": {"Great Artist": 30},
-		"cost": 1000,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 100,
-	},
-	{
-		"name": "Merchant point",
-		"uniqueTo": "Republica Imperial",
-		"gold": 100,
-		"greatPersonPoints": {"Great Merchant": 30},
-		"cost": 1000,
-		"hurryCostModifier": 99999999999,
-		"maintenance": 100,
-	 },
 	 {
     "name": "Imperial Bureaucracy",
     "uniqueTo": "Republica Imperrial",
-    "maintenance": 5,
+    "maintenance": 750,
     "cost": 1000,
     "hurryCostModifier": 25,
     "uniques": [
