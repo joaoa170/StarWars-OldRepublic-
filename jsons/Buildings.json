@@ -300,7 +300,7 @@
 	  "[+1 Production] per [5] population [in all cities]",
 	  "[+10]% [Production] [in all cities]",
 	  "Quantity of strategic resources produced by the empire +[50]%",
-	  "[-1]% tile improvement construction time", ] 
+	  "[-1]% tile improvement construction time" ] 
 }
 { "name": "Hax For Everyone!", 
   "isNationalWonder": true, 
