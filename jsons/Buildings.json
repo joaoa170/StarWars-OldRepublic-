@@ -303,7 +303,7 @@
 	  "[-1]% tile improvement construction time" ] 
 }
 { "name": "Hax For Everyone!", 
-  "islWonder": true, 
+  "isWonder": true, 
   "cost": 1,
   "uniques": [ "Enables Open Borders agreements",
 	  "Enables Research agreements",
