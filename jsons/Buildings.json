@@ -315,7 +315,7 @@
 	  "[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] per [10] population [in all cities]",
 	  "Enables conversion of city production to [Gold]",
 	  "May choose [3] additional belief(s) of any type when [enhancing] a religion",
-	  "May buy [Great General] units for [1000] [Gold] [in this city] <when not at war>",
+	  "May buy [Great General] units for [1000] [Gold] [in this city] <when at war>",
 	  "May buy [Great General] units for [5000] [Gold] [in this city] ",
 	  "May buy [Great Merchant] units for [1500] [Gold] [in this city] ",
 	  "May buy [Great Engineer] units for [1500] [Gold] [in this city] ",
